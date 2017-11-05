@@ -7542,5 +7542,16 @@
     "description": "Conversion between integers and Roman numerals",
     "license": "MIT",
     "web": "https://github.com/lcrees/romans"
+  },
+  {
+    "name": "nimTest",
+    "url": "https://github.com/lguzzon-scratchbook/nimTest",
+    "method": "git",
+    "tags": [
+      "test"
+    ],
+    "description": "Test nim package project to check how to nimble publish works",
+    "license": "MIT",
+    "web": "https://github.com/lguzzon-scratchbook/nimTest"
   }
 ]
